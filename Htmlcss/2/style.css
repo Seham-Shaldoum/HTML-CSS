@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+.overlay {
+  position: fixed ;
+  top: 50;
+  padding: 3em;
+}
+
+.fontStyle1 {
+  color: red;
+  font-size: 3em;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+.fontStyle2 {
+  color: slateblue;
+  font-size: 2.1em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fontStyle3 {
+  color: lightblue;
+  font-size: 2em;
+  font-family: 'Papyrus', Copperplate, fantasy;
+}
